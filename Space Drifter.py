@@ -24,7 +24,7 @@ fpsclock = pygame.time.Clock()
 
 #Initialize screen
 screen = pygame.display.set_mode([screenwidth, screenheight])
-pygame.display.set_caption('Space Shooter Game')
+pygame.display.set_caption('Space Drifter Game')
 
 #Player properties
 class Player(pygame.sprite.Sprite):
